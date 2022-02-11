@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/btYCTLv.gif)
+<img src= "https://i.imgur.com/C3DrCHh.gif" width=250><br>
 
 ### Notes
 This assignment taught me alot about style choices, tables and cells. It was all new to me so I took some time to really digest the material. Especially how to implement controllers. The videos were a bit hard to follow since alot of the instructions were skipped over but I was able to solve most of my issues. I wasn't able to get the correct constraints in the movie title label. You can see that it gets cut off in portrait mode but in landscape it's fine. 
