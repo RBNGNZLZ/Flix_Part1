@@ -18,7 +18,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://i.imgur.com/b3B0pm3.gif" width=250><br>
 
 ### Notes
-Learned to use collection view and also the basics to how navigation works in context with movie genres.
 ---
 
 ---
@@ -41,4 +40,3 @@ Learned to use collection view and also the basics to how navigation works in co
 <img src= "https://i.imgur.com/C3DrCHh.gif" width=250><br>
 
 ### Notes
-From this project I learned about style choices, tables and cells, and to implement controllers. I wasn't able to get the correct constraints in the movie title label. You can see that it gets cut off in portrait mode but in landscape it's fine. 
